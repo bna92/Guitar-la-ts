@@ -12,3 +12,6 @@ export type CartItem = Guitar & {
 }
 
 export type GuitarId = Guitar ['id'] 
+
+
+//
